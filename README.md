@@ -1,2 +1,2 @@
-# HYALO_MARVIN_RICHARD
+# MARVIN_RICHARD
 Java coursework
